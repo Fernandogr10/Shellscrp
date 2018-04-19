@@ -1,0 +1,7 @@
+MAC Address: 30:85:A9:E9:88:11 (Asustek Computer)
+MAC Address: 24:F5:AA:F7:BB:21 (Samsung Electronics Co.)
+MAC Address: 24:F5:AA:F7:BB:21 (Samsung Electronics Co.)
+MAC Address: 30:85:A9:36:52:5F (Asustek Computer)
+MAC Address: 30:85:A9:36:58:21 (Asustek Computer)
+MAC Address: F4:30:B9:A6:25:C2 (Unknown)
+MAC Address: DC:0E:A1:BD:30:51 (Compal Information (kunshan) CO.)
